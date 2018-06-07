@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="swing-layout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Observer/PiyasaObserver/lib/swing-layout/swing-layout-1.0.4-doc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Observer/PiyasaObserver/lib/swing-layout/swing-layout-1.0.4-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Observer/PiyasaObserver/lib/swing-layout/swing-layout-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
